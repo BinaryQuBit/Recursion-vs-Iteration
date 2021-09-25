@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1632275261 source:c:\users\amand\desktop\fibonacci numbers\fib_iter.cpp
+	<bits/stdc++.h>
+	"Header.h"
+
+1632275293 source:c:\users\amand\desktop\fibonacci numbers\main.cpp
+	<bits/stdc++.h>
+	"Header.h"
+
+1632275293 c:\users\amand\desktop\fibonacci numbers\header.h
+
+1632275302 source:c:\users\amand\desktop\fibonacci numbers\fib_recur.cpp
+	<bits/stdc++.h>
+	"Header.h"
+
